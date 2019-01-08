@@ -20,6 +20,8 @@
 	</properties>
 
 	<dependencies>
+	
+	
 		<dependency>
 			<groupId>javax</groupId>
 			<artifactId>javaee-api</artifactId>
@@ -40,6 +42,7 @@
 		    <groupId>org.glassfish</groupId>
 		    <artifactId>javax.el</artifactId>
 		</dependency>
+		
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
@@ -48,6 +51,7 @@
 		 <artifactId>cors-filter</artifactId> 
 		 <version>2.6</version> 
 		</dependency>
+		
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
